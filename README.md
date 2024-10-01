@@ -9,7 +9,7 @@
 
 ## Sobre a Aplicação
 
-Esta é uma aplicação de Controle de Tarefas (CRUD) desenvolvida em Laravel. A aplicação oferece autenticação de usuários e permite o gerenciamento de tarefas, incluindo a criação, leitura, atualização e exclusão de tarefas.
+Esta é uma aplicação de Controle de Tarefas (CRUD) desenvolvida em Laravel. A aplicação oferece autenticação de usuários e permite o gerenciamento de tarefas, incluindo a criação, leitura, atualização e exclusão de tarefas - CRUD.
 
 ## Funcionalidades
 
